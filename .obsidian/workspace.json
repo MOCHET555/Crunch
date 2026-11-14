@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quartz/content/Основные механики/0.НАЧАЛО/3.ПРОГРЕСС ПЕРСОНАЖА.md",
+                "file": "Quartz/content/Основные механики/♞НАЕМНИКИ/Подразделения и отряды/ПОДРАЗДЕЛЕНИЕ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.ПРОГРЕСС ПЕРСОНАЖА"
+              "title": "ПОДРАЗДЕЛЕНИЕ"
+            }
+          },
+          {
+            "id": "798adaf9dcb8811a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quartz/content/Основные механики/4.✪МАГИЯ/🗃️СПИСОК ЗАКЛИНАНИЙ/Ранг 1/✪БЛАГОСЛАВЛЕНИЕ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "✪БЛАГОСЛАВЛЕНИЕ"
+            }
+          },
+          {
+            "id": "4df9149483b6fa45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quartz/content/Основные механики/♞НАЕМНИКИ/Список спутников.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Список спутников"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quartz/content/Основные механики/0.НАЧАЛО/3.ПРОГРЕСС ПЕРСОНАЖА.md",
+                "file": "Quartz/content/Основные механики/♞НАЕМНИКИ/Список спутников.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quartz/content/Основные механики/0.НАЧАЛО/3.ПРОГРЕСС ПЕРСОНАЖА.md",
+                "file": "Quartz/content/Основные механики/♞НАЕМНИКИ/Список спутников.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quartz/content/Основные механики/0.НАЧАЛО/3.ПРОГРЕСС ПЕРСОНАЖА.md",
+                "file": "Quartz/content/Основные механики/♞НАЕМНИКИ/Список спутников.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,10 +217,23 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "51ffffc1eeea9b24",
+  "active": "4df9149483b6fa45",
   "lastOpenFiles": [
+    "Quartz/content/Основные механики/♞НАЕМНИКИ/Свойства спутников/Самоотверженный.md",
+    "Quartz/content/Основные механики/♞НАЕМНИКИ/Список спутников.md",
+    "Quartz/content/Основные механики/♞НАЕМНИКИ/Свойства спутников/Ценный.md",
+    "Quartz/content/Основные механики/♞НАЕМНИКИ/СВОЙСТВА СПУТНИКОВ.md",
+    "Quartz/content/Основные механики/5.КЛАССЫ/ВОИН.md",
+    "Quartz/content/Основные механики/5.КЛАССЫ/МАГ.md",
+    "Quartz/content/Основные механики/♞НАЕМНИКИ/Подразделения и отряды/СВЯЗЬ ОТРЯДА.md",
+    "Quartz/content/Основные механики/♞НАЕМНИКИ/Подразделения и отряды/ОТРЯДЫ.md",
+    "Quartz/content/Основные механики/4.✪МАГИЯ/🗃️СПИСОК ЗАКЛИНАНИЙ/Ранг 1/✪БЛАГОСЛАВЛЕНИЕ.md",
+    "Quartz/content/Основные механики/♞НАЕМНИКИ/Подразделения и отряды/КОМАНДИРЫ.md",
+    "Quartz/content/Основные механики/♞НАЕМНИКИ/Подразделения и отряды/ПОДРАЗДЕЛЕНИЕ.md",
+    "Quartz/content/Основные механики/♞НАЕМНИКИ/СПУТНИКИ.md",
+    "Quartz/content/Утилити/БАЗА/⚀.md",
+    "Quartz/content/Основные механики/0.НАЧАЛО/3.ПРОГРЕСС ПЕРСОНАЖА.md",
     "Quartz/content/Основные механики/5.КЛАССЫ/ЖРЕЦ.md",
-    "Quartz/content/Утилити/БАЗА/⚀Заряд.md",
     "Quartz/content/Основные механики/4.✪МАГИЯ/Список тегов заклинаний/⚀Заряженное.md",
     "Quartz/content/Основные механики/4.✪МАГИЯ/Список тегов заклинаний/Хаотическое.md",
     "Quartz/content/Основные механики/4.✪МАГИЯ/Список тегов заклинаний/Поддерживаемое.md",
@@ -203,11 +245,6 @@
     "Quartz/content/Основные механики/4.✪МАГИЯ/🗃️СПИСОК ЗАКЛИНАНИЙ/Ранг 3/✪СИЛА КРОВИ.md",
     "Quartz/content/Основные механики/4.✪МАГИЯ/🗃️СПИСОК ЗАКЛИНАНИЙ/Ранг 2/✪ЧАРЫ ГРОМА.md",
     "⬢САМОЦВЕТ.md",
-    "Quartz/content/Ресурсы мастера/Механика исследований/Фазы дня/1.Утренняя фаза.md",
-    "Quartz/content/Ресурсы мастера/Механика исследований/Длительные события.md",
-    "Quartz/content/Ресурсы мастера/Механика исследований/Музы.md",
-    "Quartz/content/Основные механики/ПРАВИЛА БОЯ.md",
-    "Quartz/README.md",
-    "Quartz/CODE_OF_CONDUCT.md"
+    "Quartz/content/Ресурсы мастера/Механика исследований/Фазы дня/1.Утренняя фаза.md"
   ]
 }
